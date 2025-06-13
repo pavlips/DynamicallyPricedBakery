@@ -1,3 +1,4 @@
 # DynamicallyPricedBakery
-Winforms project for managing a bakery and performing dynamic pricing on the items.
-Writeup in progress
+Management system for bakery business to reduce waste through dynamic pricing. 
+
+Project for school.
